@@ -1,0 +1,8 @@
+react currency format: used to foramt money
+react context api:
+    1)  create StateProvider.js
+    2)  copy paste the snippet code in it
+    3)  go to index.js 
+    4)  Wrap App Component with StateProvider and pass initialState and reducer as props
+    5)  create reducer.js and export the initialState and the reducer function
+    6)  dispatch actions
